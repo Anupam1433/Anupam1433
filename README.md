@@ -1,8 +1,6 @@
-### Hi there 👋
-
 About Me 🚀
 
-### 👋 Hello there, I'm [Anupam Tripathi]
+### 👋 Hello there, I'm Anupam Tripathi
 
 I'm a recent graduate with a B.Tech in Electrical Engineering (2023) and a passion for data science. During my academic journey, I actively engaged in freelance projects, honing my skills in various domains. Here's what I bring to the table:
 
